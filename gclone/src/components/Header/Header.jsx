@@ -1,8 +1,14 @@
+import Box from '@mui/material/Box';
+import TextField from '@mui/material/TextField';
+
 const Header = () => {
     return (
         <>
-        <p>Google Clone </p>
-        <p>Check git config</p>
+        <form  className="search">
+           <div>
+            <TextField id="outlined-search" label="Googly Here" type="search" style = {{width: 550 }} />
+            </div> 
+        </form>
         </>
     );
 }
