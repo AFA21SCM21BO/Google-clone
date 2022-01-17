@@ -1,7 +1,7 @@
 const Header = () => {
     return (
         <>
-        <p>Google Clone</p>
+        <p>Google Clone first trial</p>
         </>
     );
 }
