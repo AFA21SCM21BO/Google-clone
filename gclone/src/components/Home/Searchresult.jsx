@@ -1,7 +1,7 @@
 const Searchresult = () => {
     return ( <div>
-        
+
     </div> );
 }
  
-export default Searchresultlt ;
+export default Searchresult ;
